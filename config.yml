@@ -1,0 +1,8 @@
+nomenclature:
+  name: [[app_name]]
+  verboseName: [[app_display_name]]
+description: An app for Omniport that does what apps do
+baseUrls:
+  http: [[app_name]]/
+  static: [[app_name]]/
+isApi: true
