@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<svg version="1.1" id="Layer_1" focusable="false" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:url(#SVGID_1_);}
 </style>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="50" y1="250" x2="450" y2="250">
-	<stop  offset="0" style="stop-color:#FFC907"/>
-	<stop  offset="0.5" style="stop-color:#EE1D51"/>
-	<stop  offset="1" style="stop-color:#882890"/>
-</linearGradient>
-<path class="st0" d="M236.8334,55.8068L74.3016,116.7562C59.6894,122.2261,50,136.2913,50,151.9194v175.8938
-	c0,14.2215,8.0484,27.1928,20.7072,33.5222l162.5317,81.2659c10.5489,5.3135,22.9733,5.3135,33.5222,0l162.5317-81.2659
-	C442.0297,355.0059,450,341.9565,450,327.8131V151.9194c0-15.6281-9.6894-29.6152-24.3016-35.085L263.1666,55.885
-	C254.7275,52.6031,245.3506,52.6031,236.8334,55.8068z M250.0391,104.3319l150.0293,56.261v0.8595l-150.0293,60.9494
-	l-150.0293-60.9494v-0.8595C100.0098,160.5929,250.0391,104.3319,250.0391,104.3319z M275.0439,382.5113V266.1604l125.0244-50.7912
-	v104.6298L275.0439,382.5113z"/>
+<g>
+	<g>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="28.9337" y1="256" x2="483.0663" y2="256">
+			<stop  offset="0" style="stop-color:#A3B6FB"/>
+			<stop  offset="9.282279e-03" style="stop-color:#A0B3FA"/>
+			<stop  offset="0.1385" style="stop-color:#7D8EEC"/>
+			<stop  offset="0.243" style="stop-color:#6777E3"/>
+			<stop  offset="0.309" style="stop-color:#5F6FE0"/>
+			<stop  offset="0.8222" style="stop-color:#8F52EC"/>
+		</linearGradient>
+		<path class="st0" d="M241.1,35.5L56.5,104.7c-16.6,6.2-27.6,22.2-27.6,39.9v199.7c0,16.1,9.1,30.9,23.5,38.1L237,474.7
+			c12,6,26.1,6,38.1,0l184.5-92.3c14.5-7.2,23.5-22,23.5-38.1V144.6c0-17.7-11-33.6-27.6-39.8L270.9,35.6
+			C261.4,31.9,250.7,31.9,241.1,35.5z M256,90.6l170.3,63.9v1L256,224.7L85.7,155.5v-1C85.7,154.5,256,90.6,256,90.6z M284.4,406.4
+			V274.3l141.9-57.7v118.8L284.4,406.4z"/>
+	</g>
+</g>
 </svg>
