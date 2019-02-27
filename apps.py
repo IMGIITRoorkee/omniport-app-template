@@ -1,6 +1,3 @@
-from django.apps import AppConfig
+from configuration.utils.app_config_class import get_app_config_class
 
-
-class [[app_pascal_name]]Config(AppConfig):
-    name = '[[app_name]]'
-    verbose_name = '[[app_display_name]]'
+Config = get_app_config_class(__file__)
